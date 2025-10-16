@@ -1,52 +1,90 @@
-🎮 Tic Tac Toe
-Development Phases
+Here’s a **GitHub-styled, polished README.md** version — with badges, emojis, checkboxes, and section organization that makes it look professional and ready to publish:
 
-Functional multiplayer mode
+---
 
-Bot opponent
+# 🎮 Game Collection Project
 
-Three difficulty levels
+A collection of classic terminal games built for fun, learning, and progressive feature development.
+Each game evolves through multiple stages — from basic logic to AI and front-end integration.
 
-Improve the UI (clear terminal between turns)
+---
 
-Write a user guide
+## 🧱 Table of Contents
 
-Split the code into multiple files
+* [Tic Tac Toe](#-tic-tac-toe)
+* [Snake](#-snake)
+* [Hangman](#-hangman)
 
-Allow players to choose between X or O
+---
 
-Polish gameplay and code
+## ❌⭕ Tic Tac Toe
 
-Add a Scoreboard with two sections (vs CPU, vs Player)
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+![Language](https://img.shields.io/badge/language-C-blue)
 
-Option to choose whether a match should be recorded in the scoreboard
+### 🧩 Development Roadmap
 
-Separate the scoreboard by CPU difficulty level
+* [ ] **Functional multiplayer mode**
+* [ ] **Bot opponent**
 
-Develop a graphical front-end
+  * [ ] Three difficulty levels
+* [ ] **Improve UI** (clear terminal between turns)
+* [ ] **Write user guide**
+* [ ] **Split code into multiple files**
+* [ ] **Allow player to choose between X or O**
+* [ ] **Polish gameplay and code**
+* [ ] **Add Scoreboard**
 
-Implement AI
+  * [ ] Separate sections: *vs CPU* and *vs Player*
+  * [ ] Option to choose whether a match is recorded
+  * [ ] Split scoreboard by CPU difficulty
+* [ ] **Develop graphical front-end**
+* [ ] **Implement AI**
 
-🐍 Snake
+---
 
-Continuous game loop (while control variable)
+## 🐍 Snake
 
-Delay between frame updates
+![Status](https://img.shields.io/badge/status-planned-lightgrey)
+![Language](https://img.shields.io/badge/language-C-blue)
 
-Movement system
+### 🧠 Core Systems
 
-Collision detection system
+* [ ] Continuous game loop (`while` control variable)
+* [ ] Frame delay between iterations
+* [ ] Movement system
+* [ ] Collision detection
+* [ ] Random food spawning on the map
+* [ ] Food consumption logic
+* [ ] Growth system
 
-Random point (food) generation on the map
+---
 
-Food consumption system
+## 🔤 Hangman
 
-Growth system
+![Status](https://img.shields.io/badge/status-planned-lightgrey)
+![Language](https://img.shields.io/badge/language-C-blue)
 
-🔤 Hangman
+### 📘 Features
 
-Preexisting dictionary of words
+* [ ] Predefined word dictionary
+* [ ] Option to add new words
+* [ ] Strike system to end the game after a certain number of mistakes
 
-Ability to add new words to the dictionary
+---
 
-Strike system to end the game after a set number of errors
+## 🛠️ Technologies
+
+* **Language:** C
+* **Interface:** Terminal-based (CLI)
+* **Future Goals:** Graphical UI, AI improvements, modular file organization
+
+---
+
+## 💡 Author
+
+**Guilherme Parnaíba Nunes**
+🎓 Learning C and game logic development for academic and personal projects.
+📅 *This repository will evolve over time — stay tuned!*
+
+---
