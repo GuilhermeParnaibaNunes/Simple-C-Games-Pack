@@ -1,5 +1,3 @@
-Here’s a **GitHub-styled, polished README.md** version — with badges, emojis, checkboxes, and section organization that makes it look professional and ready to publish:
-
 ---
 
 # 🎮 Game Collection Project
